@@ -1,0 +1,6 @@
+com\ebit\hr\controller\UserController.class
+com\ebit\hr\controller\SalaryController.class
+com\ebit\hr\controller\DepartmentController.class
+com\ebit\hr\controller\EmpDetailController.class
+com\ebit\hr\controller\GradePayController.class
+com\ebit\hr\controller\EmpGradeController.class

@@ -1,0 +1,6 @@
+com\ebit\hr\model\EmpDetail.class
+com\ebit\hr\model\GradePay.class
+com\ebit\hr\model\Department.class
+com\ebit\hr\model\User.class
+com\ebit\hr\model\EmpSalary.class
+com\ebit\hr\model\EmpGrade.class

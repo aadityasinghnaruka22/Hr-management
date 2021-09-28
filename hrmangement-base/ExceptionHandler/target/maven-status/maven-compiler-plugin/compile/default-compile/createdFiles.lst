@@ -1,0 +1,3 @@
+com\ebit\hr\exception\DefaultExceptionHandler.class
+com\ebit\hr\exception\UserNotFoundException.class
+com\ebit\hr\exception\ErrorMessage.class

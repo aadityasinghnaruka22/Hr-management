@@ -1,0 +1,6 @@
+com\ebit\hr\repo\DepatmentRepo.class
+com\ebit\hr\repo\UserRepository.class
+com\ebit\hr\repo\SalaryRepo.class
+com\ebit\hr\repo\EmpDetailRepo.class
+com\ebit\hr\repo\GradePayRepository.class
+com\ebit\hr\repo\EmpGradeRepo.class
